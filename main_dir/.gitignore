@@ -2,4 +2,4 @@
 *.tfvars
 
 # Ignore backend files
-backend/
+backend.tf
