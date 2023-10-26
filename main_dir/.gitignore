@@ -1,0 +1,5 @@
+# Ignore tfvars files
+*.tfvars
+
+# Ignore backend files
+backend/
